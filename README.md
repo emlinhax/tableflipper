@@ -6,3 +6,7 @@ this will bypass / disable patchguard's following checks:
 # details
 for more details just look at PspProcessDelete and KiInitializeUserApc.
 since this isn't a public repo (yet), im not gonna write an explanation.
+
+# compatibility
+tested on:
+- win11 21H2
